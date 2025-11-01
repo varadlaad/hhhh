@@ -25,7 +25,7 @@ h, w = frame.shape[:2]
 total_pixels = float(w * h)
 
 plt.ion()
-
+# test commit
 fig3d = plt.figure(figsize=(6, 6))
 ax3d = fig3d.add_subplot(111, projection='3d')
 
